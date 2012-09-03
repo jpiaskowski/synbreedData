@@ -1,8 +1,8 @@
 Package: synbreedData
 Type: Package
 Title: Data for the synbreed package
-Version: 1.1
-Date: 2012-03-12
+Version: 1.3
+Date: 2012-09-03
 Author: Valentin Wimmer, Theresa Albrecht, Hans-Juergen Auinger,
         Chris-Carolin Schoen with contributions by Malena Erbe, Ulrike
         Ober and Christian Reimer
@@ -20,6 +20,6 @@ License: GPL-2
 LazyLoad: yes
 LazyData: no
 ZipData: no
-Packaged: 2012-03-12 10:50:03 UTC; Valentin
+Packaged: 2012-09-06 17:32:06 UTC; Valentin
 Repository: CRAN
-Date/Publication: 2012-03-14 17:27:52
+Date/Publication: 2012-09-06 17:52:20
