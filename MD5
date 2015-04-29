@@ -1,9 +1,9 @@
-4284ab5848364d1f0dc8d34bd7407faf *DESCRIPTION
+b3a0a000403c00dd3a2007a981c58da0 *DESCRIPTION
 7a19fee4c642dcdee75ed9e371a6043e *NAMESPACE
-a86f03ae2894ebf20d805736c2880e98 *data/cattle.RData
+5eab41d298545576198487501fd99cad *data/cattle.RData
 ea08d460d9d590202bd0edf1e0e76755 *data/datalist
-234a42f35f249613bca4f48ab220aa65 *data/maize.RData
-86359fe62ea086819c31885a6cd54bc9 *data/mice.RData
+3a8a9b18904775a32cd19004dc973bb5 *data/maize.RData
+bf48acf699bba855b8434c66074d1912 *data/mice.RData
 9507505d37aa18e89d8d65a3b4d721a6 *man/cattle.Rd
 b8e39bccc14846842dbdc908b53197ac *man/maize.Rd
-cd80567633c43db491167d7a3566fb4e *man/mice.Rd
+c2eab4463cef7f57fb2a3e586c5817d8 *man/mice.Rd
